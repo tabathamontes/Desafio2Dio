@@ -1,4 +1,4 @@
-# DioDesafio2
+# Dio 2º Desafio 
 Calculadora de Partidas Rankeadas
 
 **O Que deve ser utilizado**
